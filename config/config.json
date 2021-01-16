@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "u7624495_alvif",
-    "password": "lemahbangdewo",
-    "database": "u7624495_projek",
-    "host": "lemahbangdewo.id",
+    "username": "dkansaigbsqvse",
+    "password": "38bdcded1567580059bdc0cc417692e38eeea74d798273e2e8a31e8557c5c7eb",
+    "database": "d6b14aq4v82kdl",
+    "host": "ec2-52-203-49-58.compute-1.amazonaws.com",
     "dialect": "mysql"
   }
 }
