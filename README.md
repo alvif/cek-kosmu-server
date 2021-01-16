@@ -12,7 +12,7 @@
 ```
 5. Run aplikasi dengan perintah:
 ```sh
-nodemon ./bin/www
+> nodemon ./bin/www
 ```
 6. buat database baru dengan nama db_kos.
 7. import database dari file db_kos.sql.
