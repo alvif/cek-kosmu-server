@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "240800",
-    "database": "db_kos_second",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "dkansaigbsqvse",
+    "password": "38bdcded1567580059bdc0cc417692e38eeea74d798273e2e8a31e8557c5c7eb",
+    "database": "d6b14aq4v82kdl",
+    "host": "ec2-52-203-49-58.compute-1.amazonaws.com",
+    "dialect": "postgres"
   }
 }
